@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(0, 171, 142);
+}
+main{
+    margin: auto;
+    background-color: white;
+    min-width: 300px;
+    max-width: 1000px;
+    padding: 20px;
+    margin-bottom: 50px;
+    height: 400px;
+}
+
+.email{
+    display: flex;
+    flex-flow: flex-end;
+}
